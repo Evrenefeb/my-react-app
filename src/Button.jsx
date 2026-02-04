@@ -5,7 +5,7 @@ function Button(){
 
     return(
 
-        <button onDoubleClick={(e) => handleClick(e)}>Click ME!</button>
+        <button onDoubleClick={(e) => handleClick(e)}>Click ME</button>
 
     );
 
