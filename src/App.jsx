@@ -8,6 +8,7 @@ function App() {
   return(
     <>
       <MyComponent2 />    
+      <h2>asdasdasd</h2>
     </>
     
   );
