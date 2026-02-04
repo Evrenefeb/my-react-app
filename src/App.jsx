@@ -8,7 +8,8 @@ function App() {
   return(
     <>
 
-      <MyComponent3 />      
+      <MyComponent3 />   
+      <MyComponent2 />   
 
     </>
     
