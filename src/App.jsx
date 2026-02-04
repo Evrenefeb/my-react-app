@@ -7,11 +7,7 @@ function App() {
   
   return(
     <>
-
-      <MyComponent3 />    
-      <button></button>
-      <h1>asdasdasdasdasdasd</h1>  
-
+      <MyComponent2 />    
     </>
     
   );
